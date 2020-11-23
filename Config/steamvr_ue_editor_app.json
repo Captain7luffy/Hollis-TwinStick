@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.twin-stick-game-template-bp-13942748.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/tftho/Documents/Unreal Projects/HollisTwinStick/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Twin Stick Game Template BP-13942748 [UE Editor]"
+				}
+			}
+		}
+	]
+}

@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-HollisTwinStick-0948.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\HollisTwinStickEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\BaseCharacter.cpp.obj"
+"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\HollisTwinStick.cpp.obj"
+"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\BaseCharacter.gen.cpp.obj"
+"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\HollisTwinStick.init.gen.cpp.obj"
+"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\Default.rc2.res"
+/OUT:"C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\UE4Editor-HollisTwinStick-0948.lib"
+/INCLUDE:IMPLEMENT_MODULE_HollisTwinStick

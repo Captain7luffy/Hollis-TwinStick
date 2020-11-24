@@ -1,0 +1,3 @@
+C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\Definitions.HollisTwinStick.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

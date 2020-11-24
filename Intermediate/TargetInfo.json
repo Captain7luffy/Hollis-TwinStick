@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "HollisTwinStick",
+			"Path": "C:\\Users\\tftho\\Documents\\Unreal Projects\\HollisTwinStick\\Source\\HollisTwinStick.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "HollisTwinStickEditor",
+			"Path": "C:\\Users\\tftho\\Documents\\Unreal Projects\\HollisTwinStick\\Source\\HollisTwinStickEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

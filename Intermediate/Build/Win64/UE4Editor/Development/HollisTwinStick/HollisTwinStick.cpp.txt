@@ -1,0 +1,2 @@
+C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Intermediate\Build\Win64\UE4Editor\Development\HollisTwinStick\Definitions.HollisTwinStick.h
+C:\Users\tftho\Documents\Unreal Projects\HollisTwinStick\Source\HollisTwinStick\HollisTwinStick.h

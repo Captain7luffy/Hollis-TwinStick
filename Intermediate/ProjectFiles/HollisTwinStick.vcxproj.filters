@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HollisTwinStick.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{DF46F102-47BC-49AA-954A-830FF521573A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HollisTwinStick.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HollisTwinStickEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{D7A78750-253D-45C4-9C6F-553D48EF4DC7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{A6279836-7104-40C1-B487-0AE952B3952D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Source\HollisTwinStick">
+      <UniqueIdentifier>{404B7577-D61C-4310-B3C3-64EAC368D326}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HollisTwinStick\BaseCharacter.cpp">
+      <Filter>Source\HollisTwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HollisTwinStick\BaseCharacter.h">
+      <Filter>Source\HollisTwinStick</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\HollisTwinStick\HollisTwinStick.Build.cs">
+      <Filter>Source\HollisTwinStick</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HollisTwinStick\HollisTwinStick.cpp">
+      <Filter>Source\HollisTwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\HollisTwinStick\HollisTwinStick.h">
+      <Filter>Source\HollisTwinStick</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\tftho\\Documents\\Unreal Projects\\HollisTwinStick\\Source\\HollisTwinStick\\HollisTwinStick.Build.cs",
+		"C:\\Users\\tftho\\Documents\\Unreal Projects\\HollisTwinStick\\Source\\HollisTwinStick.Target.cs",
+		"C:\\Users\\tftho\\Documents\\Unreal Projects\\HollisTwinStick\\Source\\HollisTwinStickEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.3"
+}
